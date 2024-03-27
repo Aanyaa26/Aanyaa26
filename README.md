@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as Full Stack Developer<br>Looking forward to collaborating on Open Source Projects<br>Mentee @ JWoC'24<br>Ex-Web Developer intern @Hirers.co.in<br>I'm eager to explore in the field of Machine Learning<br>How to reach me: aanyasharma2408@gmail.com https://www.linkedin.com/in/aanyasharmaa/<br>My link tree: https://solo.to/aanyasharma<br><br>
+:seedling: I'm currently working as Full Stack Developer<br>Looking forward to collaborating on Open Source Projects<br>Mentee @ JWoC'24<br>Ex-Web Developer intern @Hirers.co.in<br>I'm eager to explore in the field of Machine Learning<br>How to reach me: aanyasharma2408@gmail.com https://www.linkedin.com/in/aanyasharmaa/<br>My link tree: https://solo.to/aanyasharma<br><br>
 
 
 ## 🌐 Socials:
