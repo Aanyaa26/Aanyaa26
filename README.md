@@ -11,7 +11,7 @@
   🫂 Looking forward to collaborating on Open Source Projects<br> 
   📖 Ex-Web Developer intern @Hirers.co.in<br>
   📫 aanyasharma2408@gmail.com <br> 
-  🕸️ <a href = "https://aanya-sharma-portfolio.vercel.app/">My Portfolio</a>
+  🕸️ <a href = "https://aanya-sharma-portfolio.vercel.app/">My Portfolio</a> <br>
   ![](https://raw.githubusercontent.com/Aanyaa26/Aanyaa26/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Aanyaa26/Aanyaa26/output/github-contribution-grid-snake.svggh-light-mode-only)
 
