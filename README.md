@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Full+Stack+Developer👩‍🔬;Machine+Learning+Enthusiast+📊;Coder+💻;)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=Annarhysa&style=flat-square&color=blue" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Aanyaa26&style=flat-square&color=blue" alt="Profile views"/>
 <div align = "left">
   👀 I'm currently working as a Full Stack Developer<br>
   🤖 Mentee @ JWoC'24<br>
