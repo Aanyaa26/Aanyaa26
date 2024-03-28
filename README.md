@@ -38,6 +38,8 @@
   <a href="https://in.pinterest.com/aanyasharma2408/">
     <img src="https://img.shields.io/badge/Pinterest-darkred?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest Badge"/>
   </a>
+
+  ![Snake animation](https://raw.githubusercontent.com/{Aanyaa26}/{Aanyaa26}/output/github-contribution-grid-snake-dark.svg)
  
   
 
