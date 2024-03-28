@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Full+Stack+Developer👩‍🔬;Machine+Learning+Enthusiast+📊;Coder+💻;)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=Aanyaa26&style=flat-square&color=blue" alt="Profile views"/>
+[![](https://visitcount.itsvg.in/api?id=Aanyaa26&icon=0&color=0)](https://visitcount.itsvg.in)
 <div align = "left">
   👀 I'm currently working as a Full Stack Developer<br>
   🤖 Mentee @ JWoC'24<br>
@@ -51,7 +51,6 @@
 <img height="55" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img height="55" alt="cpp" src="images/534-5342172_c-language-course-c-logo-removebg-preview (1).png">
 <img width="75" alt="git" src="./images/git-removebg-preview.png">
-<img width="75" alt="git" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png">
 <img height="48" alt="sql" src="./images/sql2-compressed-1-removebg-preview.png">
 <img height="50" alt="c" src="https://fekir.info/img/c-logo.png">
 <img height="53" alt="html" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png">
@@ -72,6 +71,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aanyaa26&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
