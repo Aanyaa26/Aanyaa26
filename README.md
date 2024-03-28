@@ -1,7 +1,6 @@
 <h1> Hey, I’m Aanya Sharma </h1>
 
-[![vector](https://github.com/Aanya26/Aanya26/raw/main/images/Hand%20coding-rafiki.png)
-](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)
+![gif](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Full+Stack+Developer👩‍🔬;Machine+Learning+Enthusiast+📊;Coder+💻;)](https://git.io/typing-svg)
