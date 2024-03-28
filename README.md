@@ -1,6 +1,6 @@
 <h1> Hey, I’m Aanya Sharma </h1>
 
-<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="gif" align="right" width="45000">
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="gif" align="right" width="450">
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Full+Stack+Developer👩‍🔬;Machine+Learning+Enthusiast+📊;Coder+💻;)](https://git.io/typing-svg)
