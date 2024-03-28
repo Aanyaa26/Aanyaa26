@@ -55,6 +55,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aanyaa26&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+[![Aanya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aanyaa26&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 
 ---
