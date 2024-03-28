@@ -1,23 +1,39 @@
-name: Generate Datas
+name: generate animation
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  # Run automatically every 12 hours
+  schedule:
+    - cron: "0 */12 * * *"
+  
+  # Allows to manually run the job at any time
   workflow_dispatch:
+  
+  # Run on every push on the main branch
+  push:
+    branches:
+      - main
 
 jobs:
-  build:
-    name: Jobs to update datas
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
+      # Generates a snake game from a GitHub user's contributions graph
+      # Outputs SVG animations
+      - name: Generate GitHub contribution grid snake SVG
+        uses: Platane/snk@master
         with:
-          Aanyaa26
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+          github_user_name: Aanyaa26
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      # Push the generated SVGs to the output branch
+      - name: Push SVGs to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
