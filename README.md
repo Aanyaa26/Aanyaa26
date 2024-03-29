@@ -20,7 +20,7 @@
 <br>
 <br>
 <br>
-# Socials:
+
 
 <div id="badges" align = "center">
  
