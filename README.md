@@ -22,7 +22,7 @@
 <br>
 
 <div id="badges" align = "center">
-
+# <b>SOCIALS</b>
   <a href="https://www.linkedin.com/in/aanyasharmaa/">
     <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -31,10 +31,7 @@
   </a>
   <a href="https://discord.gg/aanyasharma_66948">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
-  </a>
-  <a href="https://twitter.com/annarhysa003">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  
   <a href="https://in.pinterest.com/aanyasharma2408/">
     <img src="https://img.shields.io/badge/Pinterest-darkred?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest Badge"/>
   </a>
