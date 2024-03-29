@@ -20,9 +20,10 @@
 <br>
 <br>
 <br>
+# Socials:
 
 <div id="badges" align = "center">
-# <b>SOCIALS</b>
+ 
   <a href="https://www.linkedin.com/in/aanyasharmaa/">
     <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
