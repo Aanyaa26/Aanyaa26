@@ -10,7 +10,7 @@
 <div align = "left">
   👀 I'm currently working as a Full Stack Developer<br>
   🤖 Mentee @ JWoC'24<br> 
-  🫂 Looking forward to collaborating on Open Source Projects<br> 
+  🫂 Looking forward to collaborating on Open Source Projects<br>  
   📖 Ex-intern @Hirers.co.in<br>
   📫 aanyasharma2408@gmail.com <br> 
   🕸️ <a href = "https://aanya-sharma-portfolio.vercel.app/">My Portfolio</a> 
