@@ -8,8 +8,10 @@
 
 [![](https://visitcount.itsvg.in/api?id=Aanyaa26&icon=0&color=0)](https://visitcount.itsvg.in)
 <div align = "left">
-  👀 I'm currently working as a Full Stack Developer<br> 
-  🤖 Mentee @ JWoC'24<br>  
+  👀 I'm currently into MAchine learning and as Full Stack Developer<br> 
+  🤖 Mentee @ JWoC'24<br> 
+  👾 Contributor @ GSSOC'2<br>
+  🗽 Mentee @ SSOC'24<br> 
   🫂 Looking forward to collaborating on Open Source Projects<br>  
   📖 Ex-intern @Hirers.co.in<br>  
   📫 aanyasharma2408@gmail.com <br>  
