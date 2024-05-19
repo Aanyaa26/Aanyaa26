@@ -10,8 +10,8 @@
 <div align = "left">
   👀 I'm currently into Machine learning and as Full Stack Developer<br> 
   🤖 Mentee @ JWoC'24<br> 
-  👾 Contributor @ GSSOC'24<br>
-  🗽 Mentee @ SSOC'24<br> 
+  👾 Contributor @ GSSoC'24<br>
+  🗽 Mentee @ SSoC'24<br> 
   🫂 Looking forward to collaborating on Open Source Projects<br>  
   📖 Ex-intern @Hirers.co.in<br>  
   📫 aanyasharma2408@gmail.com <br>  
