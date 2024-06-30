@@ -10,7 +10,7 @@
 <div align = "left"> 
   👀 Exploring Machine Learning<br>    
   🤖 Mentee @ JWoC'24<br>  
-  👾 Contributor @ GSSoC'24<br> 
+  👾 Contributor @ GSSoC'24<br>   
   🗽 Mentee @ SSoC'24<br>  
   🫂 Looking to collaborate on Open Source Projects<br>  
   📖 Ex-intern @Hirers.co.in<br>  
