@@ -13,7 +13,7 @@
   👾 Contributor @ GSSoC'24<br>   
   🗽 Mentee @ SSoC'24<br>  
   🫂 Looking to collaborate on Open Source Projects<br>  
-  📖 Ex-intern @Hirers.co.in<br>  
+  📖 Ex-intern @Hirers.co.in<br>   
   📫 aanyasharma2408@gmail.com <br>  
   🕸️ <a href = "https://aanya-sharma-portfolio.vercel.app/">My Portfolio</a> 
    </div>
