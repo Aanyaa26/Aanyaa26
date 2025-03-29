@@ -10,7 +10,7 @@
   👀 Exploring Machine Learning<br>            
   👽 Contributor @Hacktober'24 <br>      
   ⭐ Mentor @ extd. GSSOC'24 <br>     
-  🤖 Mentee @ JWoC'24<br>        
+  🤖 Mentee @ JWoC'24<br>         
   👾 Contributor @ GSSoC'24<br>   
   🗽 Mentee @ SSoC'24<br>     
   🫂 Looking to collaborate on Open Source Projects<br>    
